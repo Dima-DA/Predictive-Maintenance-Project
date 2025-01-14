@@ -86,28 +86,64 @@ This project focuses on analyzing machine performance data to develop predictive
   - Scenario modeling
 
 ## 📊 Visualizations Created
+
 1. Distribution of Anomaly Flags
+
+
+
 ![Anamoly Flag For Temp , Vibration,Pressure, RPM, Load](https://github.com/user-attachments/assets/7037b05a-bbcc-435c-a63b-a6f630beaf4a)
+
+
+
 
 ![Anomaly occurrence in Machines and Sensors (1)](https://github.com/user-attachments/assets/9d4f04b4-e1fc-45fa-aac7-ee8cbac170b2)
 
-. Machine Failure Types Analysis
+2. Machine Failure Types Analysis
+
+
 ![Machine Failure Type](https://github.com/user-attachments/assets/c4e4f0cd-e410-4e9a-87eb-7422927c949f)
 
 
-4. Pressure Anomaly Trends
+3. Pressure Anomaly Trends
+
+
    ![Time of Pressure Anomaly](https://github.com/user-attachments/assets/057298be-35a0-4d50-844f-2a373d2637b2)
 
-6. Temperature and Load Trends
+4. Temperature and Load Trends
+
+
   ![Machine Temperature and Load](https://github.com/user-attachments/assets/ac28c754-2c70-45f9-af45-0b63448a5945)
 
-8. Time-based Pressure Anomalies
+5. Time-based Pressure Anomalies
+
+
 
    ![Time of Pressure Anomaly](https://github.com/user-attachments/assets/4f06e974-2472-4e07-911e-7c0de51a08c9)
 
-10. Predicted Machine Performance
+6. Predicted Machine Performance
+
+
+
+Scenario 	RDM	Load	Predicted Vibration
+Scenario A	2000	80	0.5046853386
+Scenario B	1500	60	0.5018421675
+Scenario C	1500	0.56	0.4990548919
+Scenario D	500	100	0.4999034231
+Scenario E	2500	40	0.5047178114
+Scenario F	500	0.56	0.4952451593
+Scenario G	5000	90	0.516591418
+Scenario H	10000	20	0.5323749864
+Scenario I	15000	25	0.5516719275
+Scenario J	20000	30	0.5709688685
+Scenario K	20000	90	0.5737795667
+
+
+
+
+    ![image](https://github.com/user-attachments/assets/b0a7f4de-5bdc-4ce0-9fc6-b2d44996ddab)
 
     
+
 
 ## 💡 Skills Demonstrated
 - Data Analysis & Preprocessing
@@ -126,7 +162,7 @@ This project focuses on analyzing machine performance data to develop predictive
 - Ding & Zhang (2015)
 
 ## 🤝 Contact
-- [Your Contact Information]
+- gloriaidemoh@gmail.com
 - Open to Data Analysis opportunities!
 - Proficient in spreadsheet analysis and data visualization
 - Experienced in industrial data analysis
@@ -137,6 +173,5 @@ This project focuses on analyzing machine performance data to develop predictive
 3. Automated alert system development
 4. Enhanced visualization dashboard creation
 
-Would you like me to add or modify any sections to better showcase your work?
 
 
