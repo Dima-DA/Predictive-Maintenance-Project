@@ -125,22 +125,43 @@ This project focuses on analyzing machine performance data to develop predictive
 
 
 Scenario 	RDM	Load	Predicted Vibration
+
 Scenario A	2000	80	0.5046853386
+
+
 Scenario B	1500	60	0.5018421675
+
+
 Scenario C	1500	0.56	0.4990548919
+
+
 Scenario D	500	100	0.4999034231
+
+
 Scenario E	2500	40	0.5047178114
+
+
 Scenario F	500	0.56	0.4952451593
+
+
 Scenario G	5000	90	0.516591418
+
+
 Scenario H	10000	20	0.5323749864
+
+
 Scenario I	15000	25	0.5516719275
+
+
 Scenario J	20000	30	0.5709688685
+
+
 Scenario K	20000	90	0.5737795667
 
 
 
+![image](https://github.com/user-attachments/assets/bf73660f-7ad4-4abe-aaaf-3ac0d4aa405e)
 
-    ![image](https://github.com/user-attachments/assets/b0a7f4de-5bdc-4ce0-9fc6-b2d44996ddab)
 
     
 
