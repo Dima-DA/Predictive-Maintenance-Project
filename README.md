@@ -104,6 +104,11 @@ This project focuses on analyzing machine performance data to develop predictive
 ![Machine Failure Type](https://github.com/user-attachments/assets/c4e4f0cd-e410-4e9a-87eb-7422927c949f)
 
 
+![Failure Type by Temperature,  Vibration,  Pressure, RPM and Load (1)](https://github.com/user-attachments/assets/ea292374-e50a-49a6-a7d3-c7f16be5a177)
+
+
+
+
 3. Pressure Anomaly Trends
 
 
