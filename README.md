@@ -17,3 +17,126 @@ This project focuses on analyzing machine performance data to develop predictive
 ## How to Use
 1. Download the final report to explore the project findings.
 2. Access the dataset for detailed analysis and reproducibility.
+
+
+## 🎯 Project Objectives
+- Analyze sensor data from five machines to identify failure patterns
+- Develop predictive maintenance strategies using historical sensor data
+- Optimize maintenance schedules and reduce downtime
+- Create actionable recommendations for machine reliability enhancement
+
+## 📊 Dataset Features
+- 15,000 rows of machine sensor data including:
+  - Timestamp
+  - Machine_ID
+  - Sensor_ID
+  - Temperature (°C)
+  - Vibration (amplitude)
+  - Pressure (PSI)
+  - RPM (revolutions per minute)
+  - Load (percentage)
+  - Anomaly_Flag (0: normal, 1: anomaly)
+  - Failure_Type
+
+## 🛠️ Methodology
+1. **Data Preprocessing**
+   - Outlier detection using IQR method
+   - Data standardization using Z-score
+   - Time-based categorization
+   - Completeness verification (no missing values)
+
+2. **Statistical Analysis**
+   - Mean and standard deviation calculations
+   - Anomaly detection
+   - Trend analysis
+   - Time-period analysis (Early Morning, Morning, Afternoon)
+
+3. **Predictive Modeling**
+   - Linear regression model development
+   - Formula: `Predicted Vibration = 0.4933126545 + (0.000003812543248 × RPM) + (0.00004684496958 × Load)`
+   - Model accuracy: Mean absolute error of 0.07625032222
+
+## 📈 Key Findings
+1. **Machine Performance**
+   - Machines 3 and 4 identified as high-risk
+   - Frequent pressure and load anomalies detected
+   - Overheating and leakage most common failure types
+   - Normal operations maintained over 96% of the time
+
+2. **Operational Insights**
+   - Higher RPM values correlate with increased vibration
+   - Maximum vibration (0.5738) at 20,000 RPM
+   - Load fluctuations show moderate impact
+   - Critical time periods identified for maintenance
+
+## 🎯 Recommendations
+1. Prioritize Machines 3 and 4 maintenance
+2. Implement load balancing systems
+3. Enhance temperature and vibration monitoring
+4. Deploy predictive analytics
+5. Strengthen anomaly detection systems
+
+## 🔧 Tools Used
+- Google Sheets for:
+  - Data analysis and preprocessing
+  - Statistical calculations
+  - Linear regression modeling
+  - Pivot table analysis
+  - Data visualization
+  - Scenario modeling
+
+## 📊 Visualizations Created
+1. Distribution of Anomaly Flags
+![Anamoly Flag For Temp , Vibration,Pressure, RPM, Load](https://github.com/user-attachments/assets/7037b05a-bbcc-435c-a63b-a6f630beaf4a)
+
+![Anomaly occurrence in Machines and Sensors (1)](https://github.com/user-attachments/assets/9d4f04b4-e1fc-45fa-aac7-ee8cbac170b2)
+
+. Machine Failure Types Analysis
+![Machine Failure Type](https://github.com/user-attachments/assets/c4e4f0cd-e410-4e9a-87eb-7422927c949f)
+
+
+4. Pressure Anomaly Trends
+   ![Time of Pressure Anomaly](https://github.com/user-attachments/assets/057298be-35a0-4d50-844f-2a373d2637b2)
+
+6. Temperature and Load Trends
+  ![Machine Temperature and Load](https://github.com/user-attachments/assets/ac28c754-2c70-45f9-af45-0b63448a5945)
+
+8. Time-based Pressure Anomalies
+
+   ![Time of Pressure Anomaly](https://github.com/user-attachments/assets/4f06e974-2472-4e07-911e-7c0de51a08c9)
+
+10. Predicted Machine Performance
+
+    
+
+## 💡 Skills Demonstrated
+- Data Analysis & Preprocessing
+- Statistical Analysis
+- Predictive Modeling
+- Data Visualization
+- Technical Report Writing
+- Problem-Solving
+- Industrial Analytics
+- Google Sheets Advanced Functions
+
+## 📚 References
+- Jupyter & Sylvester (2020)
+- Li & Yang (2019)
+- Kumar & Panneerselvam (2011)
+- Ding & Zhang (2015)
+
+## 🤝 Contact
+- [Your Contact Information]
+- Open to Data Analysis opportunities!
+- Proficient in spreadsheet analysis and data visualization
+- Experienced in industrial data analysis
+
+## 🔄 Future Improvements
+1. Real-time monitoring integration
+2. Advanced machine learning model implementation
+3. Automated alert system development
+4. Enhanced visualization dashboard creation
+
+Would you like me to add or modify any sections to better showcase your work?
+
+
